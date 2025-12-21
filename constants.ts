@@ -29,7 +29,8 @@ export const PROJECTS: Project[] = [
     videoUrl: 'https://www.youtube.com/embed/88oHvOCzHpM?si=469aqRW06aI59WCt',
     thumbnail: asset('img/VAIR-XR.png'),
     tags: ['Biomechanics', 'Expert Tools', 'XR Analysis'],
-    techStack: ['Unity', 'C#', 'Motion Data', 'XR Interaction']
+    techStack: ['Unity', 'C#', 'Motion Data', 'XR Interaction'],
+    gitUrl:'https://github.com/UtGong/poseWebXR.git'
   },
   {
     id: 'accessible-ar-sports',
@@ -57,7 +58,8 @@ export const PROJECTS: Project[] = [
     videoUrl: 'https://www.youtube.com/embed/tiOGuC2EnrA?si=9qkGfkTdQVSx_7_u',
     thumbnail: asset('img/breathing.png'),
     tags: ['Biofeedback', 'Embodiment', 'Calm Technology'],
-    techStack: ['Unity', 'Sensor Integration', 'Generative Systems']
+    techStack: ['Unity', 'Sensor Integration', 'Generative Systems'],
+    gitUrl:'https://github.com/UtGong/breathing_app.git'
   },
   {
     id: 'tacticast',
@@ -70,7 +72,8 @@ export const PROJECTS: Project[] = [
     videoUrl: 'https://www.youtube.com/embed/VIFwG36J_DM?si=PGQaskUdXp8UmPJI',
     thumbnail: asset('img/TactiCast.png'),
     tags: ['Tactical Sensemaking', 'Sports Analytics', 'Perspective Guidance'],
-    techStack: ['Unity', 'C#', 'Trajectory Analysis', 'XR Interaction']
+    techStack: ['Unity', 'C#', 'Trajectory Analysis', 'XR Interaction'],
+    gitUrl:'https://github.com/h0uu0h/Football_Tactics.git'
   },
   {
     id: 'card-gesture-module',
@@ -83,6 +86,7 @@ export const PROJECTS: Project[] = [
     videoUrl: 'https://www.youtube.com/embed/UTu9s0Uw9cI?si=J0aBlR0one4zfbf6',
     thumbnail: asset('img/cardgame_gesture_module.png'),
     tags: ['Gesture Interaction', 'Hybrid Interfaces', 'Playful Systems'],
-    techStack: ['Unity', 'C#', 'Gesture Recognition', 'Interactive Systems']
+    techStack: ['Unity', 'C#', 'Gesture Recognition', 'Interactive Systems'],
+    gitUrl:'https://github.com/UtGong/CardGame.git'
   }
 ];

@@ -11,6 +11,7 @@ export interface Project {
   thumbnail: string;
   tags: string[];
   techStack: string[];
+  gitUrl?: string; // ← add this
 }
 
 export interface ChatMessage {
