@@ -1,0 +1,37 @@
+{
+  "name": "Ut Gong | Creative Technologist Portfolio",
+  "shortName": "Ut Gong Portfolio",
+  "description": "A research-oriented creative technologist portfolio showcasing hardware-intensive HCI projects, including wearable systems, VR/AR interfaces, embodied interaction, robotics-adjacent prototypes, and human–computer integration research.",
+  "author": {
+    "name": "Ut (Jo Jo) Gong",
+    "role": "Creative Technologist / HCI Researcher"
+  },
+  "keywords": [
+    "Human-Computer Interaction",
+    "Human-Computer Integration",
+    "Wearable Computing",
+    "Embodied Interaction",
+    "VR",
+    "AR",
+    "XR",
+    "Interactive Systems",
+    "Hardware Prototyping",
+    "Haptics",
+    "Sensors",
+    "Control Systems",
+    "Robotics",
+    "Perception",
+    "Creative Technology"
+  ],
+  "applicationCategory": "Research Portfolio",
+  "audience": "HCI researchers, hardware-focused labs, creative technology groups",
+  "language": "en",
+  "theme": "dark",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "requestFramePermissions": [],
+  "contact": {
+    "email": "apply-at-uchicago.edu (submission target)",
+    "website": "https://utgong.com"
+  }
+}
