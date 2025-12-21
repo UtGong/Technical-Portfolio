@@ -205,7 +205,7 @@ const App: React.FC = () => {
           <div className="w-full md:w-64 flex-shrink-0">
             <div className="aspect-[4/5] bg-stone-100 border border-stone-200 p-1.5 shadow-sm overflow-hidden">
               <img
-                src="/img/IMG_4713 copy.JPG"
+                src="./img/portfolio.JPG"
                 alt="Portrait of Ut (Jo Jo) Gong"
                 className="w-full h-full object-cover brightness-95"
               />
