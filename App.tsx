@@ -321,8 +321,6 @@ const App: React.FC = () => {
             <div className="max-w-xl">
               <h3 className="text-xl font-bold serif mb-3">Connect</h3>
               <p className="text-stone-600 leading-relaxed">
-                For Pedro Lopes’ lab applications, I will email my CV and portfolio link to{' '}
-                <span className="font-semibold text-stone-900">apply-at-uchicago.edu</span>.
                 This site is designed to foreground engineering details, build artifacts, and videos per the lab’s
                 hardware-forward HCI expectations.
               </p>
